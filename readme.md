@@ -1,6 +1,6 @@
 # Sherlock 13 - Projet OS USER
 
-Bienvenue dans notre adaptation en C du jeu **Sherlock 13**, réalisée dans le cadre du module OS USER à Sorbonne Université. Ce projet combine sockets, threads, synchronisation, et interface graphique avec SDL2 pour permettre à 4 joueurs de mîner une enquête en réseau ! 📝🚀
+Bienvenue dans notre adaptation en C du jeu **Sherlock 13**, réalisée dans le cadre du module OS USER dans le cadre des études en ingénierie "EI4" à Polytech Sorbonne. Ce projet combine sockets, threads, synchronisation, et interface graphique avec SDL2 pour permettre à 4 joueurs de mîner une enquête en réseau ! 📝🚀
 
 ---
 
